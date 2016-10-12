@@ -2,9 +2,8 @@
 
 ## Background
 
-At the heart of Github is Git, a distributed version control system for 
-software development. It allows us to keep track of and manage all of the TEST
-
+At the heart of Github is Git, a distributed version control system for
+software development. It allows us to keep track of and manage all of the
 different versions of our files for a project. It does this by keeping a
 history of all of the changes we have ever made to our files, and effectively works as a backup of all of our files. At any point, we can roll back any of the files that we are using with Git and revert back to a previous version.
 
