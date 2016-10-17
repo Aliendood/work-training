@@ -1,0 +1,12 @@
+
+
+
+
+import matplotlib.pyplot as plt
+import sys
+plt.plot(vals)
+plt.show()
+plt.title('Stock Price Data')
+plt.xlabel('Trading Day')
+plt.ylabel('Adjusted Closing Price')
+vals = [float(line.split(',')[7]) for line in sys.stdin]
